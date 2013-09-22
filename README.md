@@ -1,4 +1,0 @@
-stargate
-========
-
-Stargate Web site
