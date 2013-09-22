@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[STARGATE]]></title>
+  <link href="http://10.0.0.23/stargate//atom.xml" rel="self"/>
+  <link href="http://10.0.0.23/stargate//"/>
+  <updated>2013-09-02T06:51:28-04:00</updated>
+  <id>http://10.0.0.23/stargate//</id>
+  <author>
+    <name><![CDATA[Ken Guyton]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A New Stargate]]></title>
+    <link href="http://10.0.0.23/stargate//blog/2013/08/24/stargate/"/>
+    <updated>2013-08-24T08:21:00-04:00</updated>
+    <id>http://10.0.0.23/stargate//blog/2013/08/24/stargate</id>
+    <content type="html"><![CDATA[<p>This is a test of making a new web site for Stargate using Octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
