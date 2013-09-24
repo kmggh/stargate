@@ -4,7 +4,7 @@
   <title><![CDATA[STARGATE]]></title>
   <link href="http://10.0.0.23/stargate//atom.xml" rel="self"/>
   <link href="http://10.0.0.23/stargate//"/>
-  <updated>2013-09-02T06:51:28-04:00</updated>
+  <updated>2013-09-23T23:58:18-04:00</updated>
   <id>http://10.0.0.23/stargate//</id>
   <author>
     <name><![CDATA[Ken Guyton]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Published to Github Pages]]></title>
+    <link href="http://10.0.0.23/stargate//blog/2013/09/22/published-to-github-pages/"/>
+    <updated>2013-09-22T00:10:00-04:00</updated>
+    <id>http://10.0.0.23/stargate//blog/2013/09/22/published-to-github-pages</id>
+    <content type="html"><![CDATA[<p>The Stargate site has now been published to Github Pages.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A New Stargate]]></title>
